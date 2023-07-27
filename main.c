@@ -1,4 +1,5 @@
 #include "monty.h"
+#include <stdio.h>
 /*
  * group project: Stacks - Queues
  * Author: MissHarper & Franca
