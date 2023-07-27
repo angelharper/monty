@@ -1,11 +1,12 @@
 #include "monty.h"
-/*
+
+/**
  * group project: Stacks - Queues
  * Author: MissHarper & Franca
  */
 
 /**
- * f_pint - prints the top
+ * f_pint - that prints the top
  * @head: stack head
  * @counter: line_number
  * Return: no return

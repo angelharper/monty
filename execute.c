@@ -1,14 +1,14 @@
 #include "monty.h"
-/*
+/**
  * group project: Stacks - Queues
  * Author: MissHarper & Franca
  */
 
 /**
-* execute - executes the opcode
+* execute - Function that executes the opcode
 * @stack: head linked list - stack
 * @counter: line_counter
-* @file: poiner to monty file
+* @file: the poiner to monty file
 * @content: line content
 * Return: no return
 */

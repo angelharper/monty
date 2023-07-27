@@ -1,11 +1,12 @@
 #include "monty.h"
-/*
+
+/**
  * group project: Stacks - Queues
  * Author: MissHarper & Franca
  */
 
 /**
- * f_queue - prints the top
+ * f_queue - that prints the top
  * @head: stack head
  * @counter: line_number
  * Return: no return
@@ -18,7 +19,7 @@ void f_queue(stack_t **head, unsigned int counter)
 }
 
 /**
- * addqueue - add node to the tail stack
+ * addqueue - to add node to the tail stack
  * @n: new_value
  * @head: head of the stack
  * Return: no return

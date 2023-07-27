@@ -1,13 +1,14 @@
 #include "monty.h"
-/*
+
+/**
  * group project: Stacks - Queues
  * Author: MissHarper & Franca
  */
 
 /**
- * f_mul - multiplies the top two elements of the stack.
+ * f_mul - to multiply the top two elements of the stack.
  * @head: stack head
- * @counter: line_number
+ * @counter: the line_number
  * Return: no return
 */
 void f_mul(stack_t **head, unsigned int counter)

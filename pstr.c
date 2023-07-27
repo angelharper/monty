@@ -1,11 +1,12 @@
 #include "monty.h"
-/*
+
+/**
  * group project: Stacks - Queues
  * Author: MissHarper & Franca
  */
 
 /**
- * f_pstr - prints the string starting at the top of the stack,
+ * f_pstr - to print the string starting at the top of the stack,
  * followed by a new
  * @head: stack head
  * @counter: line_number

@@ -1,12 +1,12 @@
 #include "monty.h"
 
-/*
+/**
  * group project: Stacks - Queues
  * Author: MissHarper & Franca
  */
 
 /**
- * f_add - adds the top two elements of the stack.
+ * f_add - A function to add the top two elements of the stack.
  * @head: stack head
  * @counter: line_number
  * Return: no return

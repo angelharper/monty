@@ -1,11 +1,12 @@
 #include "monty.h"
+
 /*
  * group project: Stacks - Queues
  * Author: MissHarper & Franca
  */
 
 /**
-  *f_rotl- rotates the stack to the top
+  *f_rotl- to rotate the stack to the top
   *@head: stack head
   *@counter: line_number
   *Return: no return
