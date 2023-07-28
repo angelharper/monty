@@ -1,7 +1,7 @@
 #include "monty.h"
 /*
- * group project: Stacks - Queues
- * Author: MissHarper & Franca
+ * project: Stacks - Queues
+ * Author: MissHarper
  */
 
 /**

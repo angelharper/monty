@@ -1,1 +1,1 @@
-a group project between angel and franca
+0x19. C - Stacks, Queues - LIFO, FIFO

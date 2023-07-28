@@ -1,8 +1,8 @@
 #include "monty.h"
 #include <stdio.h>
 /*
- * group project: Stacks - Queues
- * Author: MissHarper & Franca
+ * project: Stacks - Queues
+ * Author: MissHarper
  */
 
 bus_t bus = {NULL, NULL, NULL, 0};
